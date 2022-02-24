@@ -101,10 +101,4 @@ class SimpleLinkedList
     end
     list
   end
-
 end
-
-
-# list = SimpleLinkedList.from_a([1, 2])
-
-# p list
